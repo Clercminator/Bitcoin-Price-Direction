@@ -1,1 +1,1 @@
-{"model_version": "1.0", "data": "BTC price from 2020-01-01 to 2024-04-01 with features", "training_date": "2020-01-01 to 2024-04-01", "xgboost_version": "2.0.3"}
+{"model_version": "1.0", "data": "BTC price from 2020-12-31 to 2024-03 with features", "training_date": "2023-12-31", "xgboost_version": "2.0.3", "accuracy": 0.6451612903225806}
